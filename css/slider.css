@@ -191,5 +191,5 @@ input:checked + .slider:before {
   float: left;
   position: absolute;
   right: 10px;
-  top: 10px;
+  top: 0px;
 }
