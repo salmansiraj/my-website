@@ -1,6 +1,10 @@
 .dark-mode {
-  background-color: #1a2024;
+  background-color: #1a2024 !important;
   color: #fafafa;
+}
+
+.main-container {
+  font-family: "Avenir", Arial, sans-serif;
 }
 
 .switch {
