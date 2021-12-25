@@ -7,6 +7,11 @@
   font-family: "Avenir", Arial, sans-serif;
 }
 
+.company_pic {
+  margin-left: 5px;
+  border-radius: 50% !important;
+}
+
 .switch {
   position: relative;
   display: inline-block;
